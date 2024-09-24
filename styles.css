@@ -1,5 +1,5 @@
 body{
-    height:100vh;
+    height:auto;
     background:linear-gradient(45deg,brown,white);
     width:100%;
     
@@ -57,6 +57,7 @@ a:hover{
     width:80%;
     margin:auto;
     border-radius:20px;
+    box-shadow:1px 2px 3px 4px black;
 }
 .paragraph{
     text-align:center;
